@@ -1,0 +1,4 @@
+-   URL's
+    -   [:memo: Discord](https://discord.letoa.me)
+    -   [:page_with_curl: Website](https://letoa.me)
+    -   [:star: Reviews](https://www.trustpilot.com/review/letoa.me)
