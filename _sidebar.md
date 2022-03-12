@@ -6,5 +6,6 @@
 
     -   [Backups](backups.md)
     -   [Restoring](restore.md)
+    -   [Verification](verification.md)
 
 -   [Changelog](changelog.md)
