@@ -1,0 +1,11 @@
+{
+    "name": "letoa-docs",
+    "description": "Documentation towards the most superior backup discord bot.",
+    "authors": "rqzu",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {},
+    "scripts": {
+        "dev": "docsify serve . -p 8080"
+    }
+}
