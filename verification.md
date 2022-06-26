@@ -34,4 +34,4 @@ You also need to make sure they can see the rest of the server, so for every cha
 
 Your logging channel will show all your verified users and users that have failed to verify within your server. You may always view your verified users across all of your servers [here](https://letoa.me/dashboard/account/users).
 
-![verification](https://bruh.tokyo/b4JK3GGH)
+![verification](https://cdn.upload.systems/uploads/b4JK3GGH.png)
